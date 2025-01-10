@@ -1,4 +1,4 @@
-# Projeto Meu Primeiro Blog
+# Meu Primeiro Blog
 
 Este é o meu primeiro projeto de blog, criado como parte do meu aprendizado em tecnologias web. Utilizando HTML, CSS, JS e Bootstrap para a estrutura e estilização, 
 desenvolvi um blog dedicado a contar a história de Ada Lovelace, proporcionando uma aplicação prática das ferramentas e conceitos que venho estudando.
