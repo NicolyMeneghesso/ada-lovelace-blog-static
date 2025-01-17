@@ -17,6 +17,8 @@ O blog é dedicado a Ada Lovelace, uma das figuras mais importantes na história
 * JavaScript
 * Bootstrap
 
+## Pré-visualização
+
 ![Capa do Projeto](./images/capa.png)
 ![Menu do Projeto](./images/menu.png)
 ![Sua Historia](./images/historia.png)
